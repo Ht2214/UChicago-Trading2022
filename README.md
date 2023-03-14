@@ -1,4 +1,4 @@
-# UChicago-Trading2022
+# UChicago-Trading 2022
  https://tradingcompetition.uchicago.edu/
 
 We represented UC Berkeley to compete in UChicago Trading Competition 2022 and won 3rd place in portfolio optimization. This competition involved 3 separate aspects of trading: market making, trading options, and portfolio management. There we developed a significant understanding of trading strategies by coding out our algorithms.
